@@ -1,5 +1,5 @@
 {
-  "name": "@ronzinms/actions-publish-package",
+  "name": "@ronzinms/publish-package",
   "version": "1.0.0",
   "description": "node js package",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronzinms/actions-publish-package.git"
+    "url": "git+https://github.com/ronzinms/publish-package.git"
   },
   "author": "ronzinms",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ronzinms/actions-publish-package/issues"
+    "url": "https://github.com/ronzinms/publish-package/issues"
   },
-  "homepage": "https://github.com/ronzinms/actions-publish-package#readme",
+  "homepage": "https://github.com/ronzinms/publish-package#readme",
   "publishConfig": {
    "@ronzinms:registry": "https://npm.pkg.github.com"
   }

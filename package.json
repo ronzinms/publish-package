@@ -1,6 +1,6 @@
 {
   "name": "@ronzinms/publish-package",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "description": "node js package",
   "main": "index.js",
   "scripts": {

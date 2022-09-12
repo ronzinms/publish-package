@@ -1,3 +1,22 @@
 {
-  "your": "json config here"
+  "name": "@ronzinms/actions-publish-package",
+  "version": "1.0.0",
+  "description": "node js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronzinms/actions-publish-package.git"
+  },
+  "author": "ronzinms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronzinms/actions-publish-package/issues"
+  },
+  "homepage": "https://github.com/ronzinms/actions-publish-package#readme",
+  "publishConfig": {
+   "@ronzinms:registry": "https://npm.pkg.github.com"
+  }
 }
